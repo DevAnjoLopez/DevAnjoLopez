@@ -29,7 +29,7 @@ HTML, CSS, JavaScript, Supabase, Vercel
 
 ---
 
-#### Merci 
+#### Merci (former Everplan)
 Capstone Project | In development
 
  +	Built a multiplatform funeral arrangement, management system for funeral services and Shopee-like application using Flutter and Firebase No SQL database.
